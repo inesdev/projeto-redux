@@ -46,4 +46,4 @@ const cardStyle = {
   alignContent: 'center',
   textAlign: 'center',
   display: 'inline-block',
-};
+}; 

@@ -5,4 +5,4 @@ import produtos from './produtosReducer';
 export default combineReducers({
   carrinho,
   produtos,
-});
+}); 

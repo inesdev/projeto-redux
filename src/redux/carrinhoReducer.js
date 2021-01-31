@@ -1,4 +1,4 @@
-import boxProdutos from './boxProdutos';
+import boxProdutos from './boxProdutos'; 
 
 const initialState = boxProdutos.map((item) => ({...item, quant: 0}));
 

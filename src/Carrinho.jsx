@@ -43,7 +43,7 @@ export default function Carrinho() {
         </tbody>
       </table>
 
-      <h4>Total: R$ {totalPreco.toFixed(2)}</h4>
+      <h4> Total: R$ {totalPreco.toFixed(2)} </h4>
     </div>
   );
 }

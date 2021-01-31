@@ -12,5 +12,5 @@ ReactDOM.render(
       <Carrinho />
     </div>
   </Provider>,
-  document.getElementById('root')
+  document.getElementById('root') 
 );

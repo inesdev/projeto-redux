@@ -3,7 +3,7 @@ const boxProdutos = [
       id: 1,
       produto: 'Panela Eletrica Mondial',
       preco: 119,
-    },
+    }, 
     {
       id: 2,
       produto: 'Liquidificador Mondial',
